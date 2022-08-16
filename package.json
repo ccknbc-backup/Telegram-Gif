@@ -1,0 +1,19 @@
+{
+  "author": "Telegram-Gif",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ccknbc-backup/Telegram-Gif"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccknbc-backup/Telegram-Gif.git"
+  },
+  "homepage": "https://github.com/ccknbc-backup/Telegram-Gif",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "README.md",
+  "description": "Telegram-Gif",
+  "name": "telegram-gif",
+  "version": "2022.8.16"
+}
